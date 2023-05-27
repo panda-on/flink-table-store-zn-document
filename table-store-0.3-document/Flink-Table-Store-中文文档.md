@@ -24,7 +24,7 @@
 
 LSM-Tree原理
 
-[深入浅出分析LSM树（日志结构合并树）](https://zhuanlan.zhihu.com/p/415799237)
+[知乎：深入浅出分析LSM树（日志结构合并树）](https://zhuanlan.zhihu.com/p/415799237)
 
 ## 1.2 统一存储
 
